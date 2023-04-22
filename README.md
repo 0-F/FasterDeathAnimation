@@ -1,9 +1,9 @@
 # FasterDeathAnimation
-FasterDeathAnimation is a mod for the game Elden Ring.
+FasterDeathAnimation is a mod for the game Elden Ring.  
 https://www.nexusmods.com/eldenring/mods/3367
 
 ## Compilation
-Install Docker https://www.docker.com/
+Install Docker https://www.docker.com/  
 Open a PowerShell command-line interface and write:
 ```
 git clone --recurse-submodules https://github.com/0-F/FasterDeathAnimation.git
