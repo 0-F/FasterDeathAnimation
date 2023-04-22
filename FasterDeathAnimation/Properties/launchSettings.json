@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FasterDeathAnimation": {
+      "commandName": "Project",
+      "commandLineArgs": "c0000.anibnd.dcx mod\\c0000.anibnd.dcx"
+    }
+  }
+}

@@ -116,7 +116,9 @@ namespace FasterDeathAnimation
 
                     // write patched file
                     Console.WriteLine($"Write patched file `{fileOut}`");
+                    Console.WriteLine("Wait...");
                     bnd.Write(fileOut, bnd.Compression);
+                    Console.WriteLine("File patched.");
                     break;
                 }
             }
